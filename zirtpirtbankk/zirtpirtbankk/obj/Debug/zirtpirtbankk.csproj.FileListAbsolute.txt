@@ -1,0 +1,14 @@
+C:\Users\seyo2\source\repos\zirtpirtbankk\zirtpirtbankk\bin\Debug\zirtpirtbankk.exe.config
+C:\Users\seyo2\source\repos\zirtpirtbankk\zirtpirtbankk\bin\Debug\zirtpirtbankk.exe
+C:\Users\seyo2\source\repos\zirtpirtbankk\zirtpirtbankk\bin\Debug\zirtpirtbankk.pdb
+C:\Users\seyo2\source\repos\zirtpirtbankk\zirtpirtbankk\obj\Debug\zirtpirtbankk.csproj.AssemblyReference.cache
+C:\Users\seyo2\source\repos\zirtpirtbankk\zirtpirtbankk\obj\Debug\zirtpirtbankk.Properties.Resources.resources
+C:\Users\seyo2\source\repos\zirtpirtbankk\zirtpirtbankk\obj\Debug\zirtpirtbankk.csproj.GenerateResource.cache
+C:\Users\seyo2\source\repos\zirtpirtbankk\zirtpirtbankk\obj\Debug\zirtpirtbankk.csproj.CoreCompileInputs.cache
+C:\Users\seyo2\source\repos\zirtpirtbankk\zirtpirtbankk\obj\Debug\zirtpirtbankk.exe
+C:\Users\seyo2\source\repos\zirtpirtbankk\zirtpirtbankk\obj\Debug\zirtpirtbankk.pdb
+C:\Users\seyo2\source\repos\zirtpirtbankk\zirtpirtbankk\obj\Debug\zirtpirtbankk.zirtpirtbankanasayfa.resources
+C:\Users\seyo2\source\repos\zirtpirtbankk\zirtpirtbankk\obj\Debug\zirtpirtbankk.zirtpirtbankyenigiris.resources
+C:\Users\seyo2\source\repos\zirtpirtbankk\zirtpirtbankk\obj\Debug\zirtpirtbankk.zirtpirtbankgirisanasayfa.resources
+C:\Users\seyo2\source\repos\zirtpirtbankk\zirtpirtbankk\obj\Debug\zirtpirtbankk.paragonder.resources
+C:\Users\seyo2\source\repos\zirtpirtbankk\zirtpirtbankk\obj\Debug\zirtpirtbankk.hesaplar.resources
